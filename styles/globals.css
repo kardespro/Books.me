@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply dark:bg-gray-200;
+  background: black;
+}
+.book_desc {
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;    
+        
+}
