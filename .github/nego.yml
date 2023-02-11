@@ -1,0 +1,6 @@
+server: Vercel
+author: Nego
+commands: 
+  /: "/pages/index.tsx"
+  /settings: "/pages/settings.js"
+  /search: "/pages/search.js"
